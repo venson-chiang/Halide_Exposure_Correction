@@ -37,8 +37,7 @@ Input images are reference from https://github.com/mahmoudnafifi/Exposure_Correc
 
 <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a1475-dgw_146_P1_exposure_correct.jpg" width="45%" height="45%"> <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a0716-MB_20030906_030_P1.5_exposure_correct.jpg" width="45%" height="45%"> 
 
-
-
+More exposure correct images are in https://github.com/venson-chiang/Halide_Exposure_Correction/tree/main/output_images
 
 # Usage
 1. Change HALIDE_DISTRIB_PATH to yours in Makefile.inc
