@@ -4,18 +4,18 @@ Exposure Correction using Halide
 # Requirements
 1.Halide 12.0.0 or above: https://github.com/halide/Halide
 
-2.If you want to run load_weights and read model.mat in Matlab
+2.If you want to run load_weights and read model.mat in Matlab:
 
 Deep Learning ToolBox is required: https://www.mathworks.com/products/deep-learning.html
 
 # Methods
-1.Resize input image to 
+1.Resize input image to get low resolution image for deep learning.
 
-2.Apply deep learning to
+2.Apply laplacian pyramid and deep learning model to correct exposure of image.
 
-3.Apply bgu 
+3.Apply Bilateral Guided Upsampling to get high resolution exposure corrected image. 
 
-4.Fuse image
+4.Fuse input image and exposure corrected image to get better performance of exposure correction.
 
 # Input Images
 Input images are reference from https://github.com/mahmoudnafifi/Exposure_Correction/tree/master/example_images
