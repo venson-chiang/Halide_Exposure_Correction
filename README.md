@@ -52,6 +52,7 @@ make test
 
 
 # Reference
-Exposure correction method is reference to https://github.com/mahmoudnafifi/Exposure_Correction
-Bilateral Guided Upsampling method is reference to https://github.com/google/bgu
+Exposure correction model is reference to https://github.com/mahmoudnafifi/Exposure_Correction
+
+Bilateral Guided Upsampling is reference to https://github.com/google/bgu
 
