@@ -52,5 +52,6 @@ make test
 
 
 # Reference
-The method used in this project is reference to https://github.com/mahmoudnafifi/Exposure_Correction
+Exposure correction method is reference to https://github.com/mahmoudnafifi/Exposure_Correction
+Bilateral Guided Upsampling method is reference to https://github.com/google/bgu
 
