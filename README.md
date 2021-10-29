@@ -2,30 +2,40 @@
 Exposure Correction using Halide
 
 # Requirements
-Halide 12.0.0 or above: https://github.com/halide/Halide
+1.Halide 12.0.0 or above: https://github.com/halide/Halide
 
-If you want to run load_weights and read model.mat
-Matlab machine learning toolkit is needed.
+2.If you want to run load_weights and read model.mat in Matlab
+
+Deep Learning ToolBox is required: https://www.mathworks.com/products/deep-learning.html
+
+# Methods
+1.Resize input image to 
+
+2.Apply deep learning to
+
+3.Apply bgu 
+
+4.Fuse image
 
 # Input Images
 Input images are reference from https://github.com/mahmoudnafifi/Exposure_Correction/tree/master/example_images
 
 1.Low Exposure Images
 
-<img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/example_images/Rodrigo%20Valla%20-%20CC%20BY-NC%202.0.jpg" width="50%" height="50%"> 
+<img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/example_images/Rodrigo%20Valla%20-%20CC%20BY-NC%202.0.jpg" width="30%" height="30%"> <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/example_images/a1359-NKIM_MG_6126_N1.5.JPG" width="45%" height="45%"> 
 
 2.High Exposure Images
 
-<img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/example_images/a1475-dgw_146_P1.JPG" width="50%" height="50%"> 
+<img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/example_images/a1475-dgw_146_P1.JPG" width="45%" height="45%"> <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/example_images/a0716-MB_20030906_030_P1.5.JPG" width="45%" height="45%"> 
 
 # Result
 1.Exposure Correction for low exposure image
 
-<img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/Rodrigo%20Valla%20-%20CC%20BY-NC%202.0_exposure_correct.jpg" width="50%" height="50%"> 
+<img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/Rodrigo%20Valla%20-%20CC%20BY-NC%202.0_exposure_correct.jpg" width="30%" height="30%"> <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a1359-NKIM_MG_6126_N1.5_exposure_correct.jpg" width="45%" height="45%"> 
 
 2.Exposure Correction for high exposure image
 
-<img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a1475-dgw_146_P1_exposure_correct.jpg" width="50%" height="50%"> 
+<img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a1475-dgw_146_P1_exposure_correct.jpg" width="45%" height="45%"> <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a0716-MB_20030906_030_P1.5_exposure_correct.jpg" width="45%" height="45%"> 
 
 
 
