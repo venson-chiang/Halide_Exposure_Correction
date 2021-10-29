@@ -29,11 +29,11 @@ Input images are reference from https://github.com/mahmoudnafifi/Exposure_Correc
 <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/example_images/a1475-dgw_146_P1.JPG" width="45%" height="45%"> <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/example_images/a0716-MB_20030906_030_P1.5.JPG" width="45%" height="45%"> 
 
 # Result
-1.Exposure Correction for low exposure image
+1.Exposure Correction of low exposure images
 
 <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/Rodrigo%20Valla%20-%20CC%20BY-NC%202.0_exposure_correct.jpg" width="30%" height="30%"> <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a1359-NKIM_MG_6126_N1.5_exposure_correct.jpg" width="45%" height="45%"> 
 
-2.Exposure Correction for high exposure image
+2.Exposure Correction of high exposure images
 
 <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a1475-dgw_146_P1_exposure_correct.jpg" width="45%" height="45%"> <img src="https://github.com/venson-chiang/Halide_Exposure_Correction/blob/main/output_images/a0716-MB_20030906_030_P1.5_exposure_correct.jpg" width="45%" height="45%"> 
 
