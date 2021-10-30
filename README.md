@@ -49,7 +49,6 @@ HALIDE_DISTRIB_PATH ?= /mnt/d/Software/Halide-12/distrib
 make test
 ```
 
-
 # Reference
 Exposure correction model is reference to https://github.com/mahmoudnafifi/Exposure_Correction
 
