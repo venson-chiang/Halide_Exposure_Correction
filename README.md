@@ -9,13 +9,13 @@ Exposure Correction using Halide
 Deep Learning ToolBox is required: https://www.mathworks.com/products/deep-learning.html
 
 # Methods
-1. Resize input image to get low resolution image for deep learning.
+1.Resize input image to get low resolution image for deep learning.
 
-2. Apply laplacian pyramid and deep learning model to correct exposure of image.
+2.Apply laplacian pyramid and deep learning model to correct exposure of image.
 
-3. Apply Bilateral Guided Upsampling to get high resolution exposure corrected image. 
+3.Apply Bilateral Guided Upsampling to get high resolution exposure corrected image. 
 
-4. Fuse input image and exposure corrected image to get better performance of exposure correction.
+4.Fuse input image and exposure corrected image to get better performance of exposure correction.
 
 # Input Images
 Input images are reference from https://github.com/mahmoudnafifi/Exposure_Correction/tree/master/example_images
